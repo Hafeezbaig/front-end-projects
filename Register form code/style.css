@@ -1,0 +1,31 @@
+.form{
+border: 1px solid black;
+margin-top:200px;
+margin-left:200px;
+margin-right: 200px;
+margin-bottom: 200px;
+width: 600px;
+background-color: #c1b8c6a0;
+}
+body{
+/* background-image: url('./images/mountains.jpg'); */
+background-image: url('./images/building.jpg');
+
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+button{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    margin: 10px;
+    padding: 8px 10px;
+}
+
+/* Input tags css */
+input{
+    background-color: #ffffffd9;
+    color: rgb(0, 0, 0);
+    margin: 2px;
+    padding: 4px;
+}
